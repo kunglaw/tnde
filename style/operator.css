@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0; padding:0}
+
+body
+{
+	background-color:#CCC;	
+}
+
+#garisFooter
+{
+	color:#333;
+	width:900px;
+	clear:both;	
+}
+
+#wrapper
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	background-color:#FFF;
+	border:solid;
+	border-width:thin;
+}
+
+#header
+{
+	width:1000px;
+	height:150px;
+	background-image:url(../image/orange.jpg);
+}
+
+#nav
+{
+	width:1000px;
+	background-color:#000;
+	height:36px;
+	vertical-align:super;
+}
+
+input[type="text"]
+{
+	font-size:16px;	
+}
+
+input[type="password"]
+{
+	font-size:16px;	
+}
+
+input[type="select"]
+{
+	font-size:16px;
+	
+}
+
+input[type="Option"]
+{
+	font-size:16px;
+	
+}
+
+
+/*
+#nav a
+{
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	font-size:16px;	
+	height:30px;
+	
+	font-weight:bold;
+	color:#FF0;
+}
+
+#nav a:hover
+{
+	background-color:#F90;
+	color:#FFF;
+}
+*/
+
+#content
+{
+	width:1000px;	
+}
+
+#button
+{
+	background-image:url(../image/button.jpg);
+	width:70px;
+	height:30px;
+	border:hidden;	
+	cursor:pointer;
+}
+
+#box p
+{
+	margin:7px;
+	border-color:#999;	
+}
+
+.box2
+{
+	margin-bottom:10px;
+	border-color:#666;
+}
+
+#pilihan a
+{
+	text-decoration:none;	
+}
+
+#pilihan:hover
+{
+	background-color: #999;
+	
+}
+
+#pilihan
+{
+	font-weight:bold;
+	
+}
+
+#link
+{
+	background-image:url(../image/button.jpg);
+	width:70px;
+	height:30px;
+	color:#000;
+	text-align:center;
+	vertical-align:middle;
+	position:absolute;
+	
+}
+
+

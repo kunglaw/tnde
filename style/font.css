@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+h2
+{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	
+}
+
+#footer
+{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#999;
+	font-size:10px;	
+}
+
+#wrapper
+{
+	font-size:16px;
+}
+
+/*
+#nav ul 
+{
+	list-style:none; 
+	height:20px;	
+}
+
+#nav li
+{
+	float: left;
+	width:130px; height:20px;
+	border-right:1px solid;
+	border-left:1px solid;	
+}
+*/
+
+.bold
+{
+	color:#06F;	
+}

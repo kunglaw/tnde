@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+.testWrna
+{	
+	color:#99FDC1;/* untuk warna selected input */
+	color:#FF95FF;/* untuk validasi text yang salah */
+		
+}
